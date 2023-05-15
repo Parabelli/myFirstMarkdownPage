@@ -18,7 +18,7 @@ _Im a 23 year old and newly made devoloper. I hope it is not too serious as a fi
 
 - I want to BeCome a good dev
 - Working on my english skills
-- Getting better at team project
+- Getting better at team project.
 
 ### **_I have no fear_**
 
